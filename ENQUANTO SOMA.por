@@ -17,6 +17,7 @@ programa
 				escreva("\nsoma = ",soma)
 				contador = 0
 			}
+/*Teste*/
 			
 			
 		} 
